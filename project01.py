@@ -1,7 +1,6 @@
 """
 ini adalah percobaan project01 untuk penajaman python
-tes lagi
-lets try again
+coba terus 
 """
 
 print ("hai dunya")
